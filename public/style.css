@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.header button {
+    width:100px;
+    height: 30px;
+    align-self: center;
+    margin: 0px 15px 0px 15px;
+}
+
+.posts {
+    margin: 5px;
+}
+.posts button {
+    width: 80px;
+    height: 25px;
+    margin: 5px 5px 0px 0px;
+}
+.buttonPost {
+    align-self: center;
+}
+
+.notFound {
+    padding: 10px;
+    color: rgb(95, 95, 95);
+    text-align: center;
+}
